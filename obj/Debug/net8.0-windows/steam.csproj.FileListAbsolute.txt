@@ -114,3 +114,4 @@ C:\Users\vantu\source\repos\steam\steam\obj\Debug\net8.0-windows\steam.Form14.re
 C:\Users\vantu\source\repos\steam\steam\obj\Debug\net8.0-windows\steam.Form15.resources
 C:\Users\vantu\source\repos\steam\steam\obj\Debug\net8.0-windows\steam.Form16.resources
 C:\Users\vantu\source\repos\steam\steam\obj\Debug\net8.0-windows\steam.Form17.resources
+C:\Users\vantu\source\repos\steam\steam\obj\Debug\net8.0-windows\steam.sourcelink.json
